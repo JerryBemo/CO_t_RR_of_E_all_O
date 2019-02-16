@@ -26,9 +26,9 @@ class Hotmail extends Authenticator {
 
         String mailhost = "smtp.live.com";
 
-        String user = "geniolaboral@gmail.com";
+        String user = "****@gmail.com";
 
-        String password = "Gomita123!";
+        String password = "******";
         Properties props = new Properties();
         try {
             props.put("mail.store.protocol", "imaps");
